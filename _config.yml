@@ -1,4 +1,5 @@
 # Site settings
+<<<<<<< HEAD
 # {{ site.myvariable }}
 title: Jessica David, Cat Mom
 description: >-
@@ -21,3 +22,5 @@ exclude:
   - CNAME
   - .gitignore
 
+email:
+baseurl: "" # the subpath of your site, e.g. /blog/
