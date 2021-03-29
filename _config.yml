@@ -1,11 +1,13 @@
 # Site settings
-<<<<<<< HEAD
 # {{ site.myvariable }}
 title: Jessica David, Cat Mom
 description: >-
   Personal site for Jessica David
 url: "https://jeska.me"
 github_username: jeska
+linkedin_url: jeska28
+
+page_top: Jessica David
 
 # Build settings
 markdown: kramdown
